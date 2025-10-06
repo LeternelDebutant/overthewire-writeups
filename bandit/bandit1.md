@@ -1,4 +1,4 @@
-# Level 1
+# Bandit 1
 
 ## Level Information
 
